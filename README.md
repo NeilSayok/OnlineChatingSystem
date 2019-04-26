@@ -30,4 +30,4 @@ The table must have the below columns with the same datatype.
 | chat_table | varchar[1000] |
 
 
- -  
+ -  https://www.php.net/manual/en/timezones.php for more details on php time zones.
